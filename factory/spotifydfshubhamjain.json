@@ -1,0 +1,15 @@
+{
+	"name": "spotifydfshubhamjain",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18bd438b-a3c5-4065-8bea-4f5eeca38b3a",
+		"tenantId": "df98692f-3e31-4b90-96f1-0631d170d208"
+	}
+}
