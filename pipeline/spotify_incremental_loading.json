@@ -147,7 +147,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"expression": {
-						"value": "@greater(activity('DBtoADLS').output.DataRead,0)",
+						"value": "@greater(activity('DBtoADLS').output.dataRead,0)",
 						"type": "Expression"
 					},
 					"ifFalseActivities": [
