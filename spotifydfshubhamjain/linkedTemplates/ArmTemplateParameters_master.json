@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "spotifydfshubhamjain"
+		},
+		"Spotifyadlsls_accountKey": {
+			"value": ""
+		},
+		"Spotifydbls_password": {
+			"value": ""
+		},
+		"Spotifyadlsls_properties_typeProperties_url": {
+			"value": "https://spotifysashubhamjain.dfs.core.windows.net/"
+		},
+		"Spotifydbls_properties_typeProperties_server": {
+			"value": "spotifyservershubhamjain.database.windows.net"
+		},
+		"Spotifydbls_properties_typeProperties_database": {
+			"value": "spotify_db"
+		},
+		"Spotifydbls_properties_typeProperties_userName": {
+			"value": "shubhamjain9014"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
