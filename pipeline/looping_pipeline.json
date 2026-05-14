@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "loop_over_files",
+				"name": "looping_activity",
 				"type": "ForEach",
 				"dependsOn": [],
 				"userProperties": [],
